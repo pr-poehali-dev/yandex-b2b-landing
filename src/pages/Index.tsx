@@ -36,9 +36,7 @@ const Index = () => {
             <h1 className="text-4xl md:text-5xl lg:text-6xl font-bold mb-6 leading-tight">
               Яндекс Директ для B2B: от 30 договоров на оптовые поставки парфюмерии и косметики
             </h1>
-            <p className="text-lg md:text-xl text-gray-300 mb-4 leading-relaxed">
-              Работаю с производителями и дистрибьюторами, у которых есть склад, отдел продаж и маржа на повторные сделки.
-            </p>
+            <p className="text-lg md:text-xl text-gray-300 mb-4 leading-relaxed">Работаю с производителями и дистрибьюторами, у которых есть склад, отдел продаж и выстроена модель повторных закупок.</p>
             <p className="text-base md:text-lg text-gray-400 mb-10">
               Не беру проекты без логистики, без менеджеров на обработку заявок или если нужны «только лиды без продаж».
             </p>
